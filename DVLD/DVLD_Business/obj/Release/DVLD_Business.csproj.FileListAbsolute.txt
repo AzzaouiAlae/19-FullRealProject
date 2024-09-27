@@ -1,0 +1,11 @@
+D:\source\19 - Full Real Project\Project\DVLD\DVLD_Business\bin\Release\Database1.mdf
+D:\source\19 - Full Real Project\Project\DVLD\DVLD_Business\bin\Release\Database1_log.ldf
+D:\source\19 - Full Real Project\Project\DVLD\DVLD_Business\bin\Release\DVLD_Business.dll
+D:\source\19 - Full Real Project\Project\DVLD\DVLD_Business\bin\Release\DVLD_Business.pdb
+D:\source\19 - Full Real Project\Project\DVLD\DVLD_Business\bin\Release\DVLD_DataAccess.dll
+D:\source\19 - Full Real Project\Project\DVLD\DVLD_Business\bin\Release\DVLD_DataAccess.pdb
+D:\source\19 - Full Real Project\Project\DVLD\DVLD_Business\obj\Release\DVLD_Business.csproj.AssemblyReference.cache
+D:\source\19 - Full Real Project\Project\DVLD\DVLD_Business\obj\Release\DVLD_Business.csproj.CoreCompileInputs.cache
+D:\source\19 - Full Real Project\Project\DVLD\DVLD_Business\obj\Release\DVLD_Bus.1422E61B.Up2Date
+D:\source\19 - Full Real Project\Project\DVLD\DVLD_Business\obj\Release\DVLD_Business.dll
+D:\source\19 - Full Real Project\Project\DVLD\DVLD_Business\obj\Release\DVLD_Business.pdb

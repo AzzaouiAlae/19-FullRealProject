@@ -1,0 +1,8 @@
+D:\source\19 - Full Real Project\Project\DVLD\DVLD_DataAccess\bin\Release\Database1.mdf
+D:\source\19 - Full Real Project\Project\DVLD\DVLD_DataAccess\bin\Release\Database1_log.ldf
+D:\source\19 - Full Real Project\Project\DVLD\DVLD_DataAccess\bin\Release\DVLD_DataAccess.dll
+D:\source\19 - Full Real Project\Project\DVLD\DVLD_DataAccess\bin\Release\DVLD_DataAccess.pdb
+D:\source\19 - Full Real Project\Project\DVLD\DVLD_DataAccess\obj\Release\DVLD_DataAccess.csproj.AssemblyReference.cache
+D:\source\19 - Full Real Project\Project\DVLD\DVLD_DataAccess\obj\Release\DVLD_DataAccess.csproj.CoreCompileInputs.cache
+D:\source\19 - Full Real Project\Project\DVLD\DVLD_DataAccess\obj\Release\DVLD_DataAccess.dll
+D:\source\19 - Full Real Project\Project\DVLD\DVLD_DataAccess\obj\Release\DVLD_DataAccess.pdb

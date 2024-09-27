@@ -1,0 +1,10 @@
+D:\source\19 - Full Real Project\Project\DVLD\DVLD\bin\Debug\DVLD.exe.config
+D:\source\19 - Full Real Project\Project\DVLD\DVLD\bin\Debug\DVLD.exe
+D:\source\19 - Full Real Project\Project\DVLD\DVLD\bin\Debug\DVLD.pdb
+D:\source\19 - Full Real Project\Project\DVLD\DVLD\obj\Debug\DVLD.csproj.AssemblyReference.cache
+D:\source\19 - Full Real Project\Project\DVLD\DVLD\obj\Debug\DVLD.Properties.Resources.resources
+D:\source\19 - Full Real Project\Project\DVLD\DVLD\obj\Debug\DVLD.csproj.GenerateResource.cache
+D:\source\19 - Full Real Project\Project\DVLD\DVLD\obj\Debug\DVLD.csproj.CoreCompileInputs.cache
+D:\source\19 - Full Real Project\Project\DVLD\DVLD\obj\Debug\DVLD.exe
+D:\source\19 - Full Real Project\Project\DVLD\DVLD\obj\Debug\DVLD.pdb
+D:\source\19 - Full Real Project\Project\DVLD\DVLD\obj\Debug\DVLD.MainForm.resources
